@@ -1,3 +1,3 @@
-# @frida/ieee754
+# @plawnekjx/ieee754
 
-Frida-optimized ESM fork of https://github.com/feross/ieee754.
+Plawnekjx-optimized ESM fork of https://github.com/feross/ieee754.
